@@ -1,0 +1,10 @@
++) application pools : khi b tạo bất kì 1 site nào thì nó cũng tự tạo cho b 1 app pools để quản lí cái website của b
++) physical path : đường dẫn của web site của b trong thu mục
+wwwrooot
++) add vào 1 file host của Window để hệ thống có thể hiểu được là khi mình gõ địa chỉ trên trình duyệt thì nó sẽ trỏ đến folder nào đó trong máy tính (C:/windows/system32/driver/etc/host rồi edit file host) điền IP local host của máy tính (127.0.0.1   learningdotnetcore.local)
++)Vào visual chuột phải project chọn publish/web server/web deploy
+server : localhost
+site name : learningdotnetcore.local
+url : http://learningdotnetcore.local
+Sau đó tắt visual đi mở lại với quyền admin(run admin)
+Publish là xong

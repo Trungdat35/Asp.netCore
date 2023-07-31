@@ -1,0 +1,22 @@
+.Net : chỉ chạy được trên Windows
+và .Core : đa nền tảng 
++) Khái niệm  : là 1 khung mã nguồn mở, được tạo bởi microsoft để xây dựng các ứng dụng và dịch vụ web
++) Asp.net core mở rộng của .net
++) Mã back-end
++) Razor
++) SPA
++)Mã nguồn mở
+----------------------------------
+View chỉ chứa HTML,CSS
+Model : phần tương tác lấy ra dữ liệu từ Db
+controller : routes , dispatch
+------------------------------------
+Design pattern :code có sẵn giải quyết vấn đề hay gặp .Thay vì phải tự nghĩ ra 
+cách giải quyết vấn đề thì dp sẽ cho ta bài giải
+-------------------------------------
++) DDD là một cách tiếp cận để phát triển những phần mềm phức tạp thông qua sự kết nối chặt chẽ giữa việc triển khai ứng dụng với sự phát triển của mô hình kinh doanh. Tiền đề tạo nên DDD là
+Đặt trọng tâm dự án vào nghiệp vụ chính (core domain) và các logic của nghiệp vụ (domain logic).
+Mô hình hóa là trọng tâm, là nền tảng cho các thiết kế phức tạp
+Sự cộng tác đầy sáng tạo giữa nhóm developer và các domain expert (chuyên gia nghiệp vụ) tạo nên tiếng nói chung để xác định và giải quyết hiệu quả các vấn đề.
++) Nguyên tắc và mẫu thiết kế để giải quyết vấn đề phức tạp. code thể hiện nghiệp vụ rõ ràng , có thể test được.
++) Tập trung vào mô hình của từng sub domain(vùng nghiệp vụ con) :Khi xây dựng một ứng dụng hoặc hệ thống lớn, đôi khi miền dữ liệu chung có thể trở nên rất phức tạp và rộng lớn. Trong trường hợp này, việc chia nhỏ miền dữ liệu thành các subdomain nhỏ hơn có thể giúp tách rời các vấn đề phức tạp thành các bài toán nhỏ hơn, dễ quản lý và phát triển.

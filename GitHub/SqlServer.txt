@@ -1,0 +1,9 @@
+SSMS : công cụ hỗ trợ quản lý (là giao diện tương tác với sql)
+cái kia chỉ là nền tảng ;
+---------------------------------------------------------------
+Tạo tài khoản sa thì nhớ là restart lại service sql
+---------------------------------------------------------------
+IIS : là công cụ chạy localhost trên Windows
+----------------------------------------------------------------
+ 
+K thể kết nối sql trực tiếp mới server mà phải Script- migration :

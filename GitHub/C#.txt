@@ -1,0 +1,7 @@
+ép kiểu : float a = 100.25f
+toán tử 3 ngôi : 
+variable = (nếu đúng) ? gán cho biến : false;
+toint32 chuyển thành int
+readLine() đọc cho đến khi enter mới dừng
+readkey(bool) đúng mới hiểu thị ra
+out modifier ( out string name...)

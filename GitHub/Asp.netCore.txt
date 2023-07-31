@@ -1,0 +1,2 @@
++)Static file : ít khi thay đổi và được đặt tại wwwroot thay vì lúc nào cũng gửi yêu cầu đến server để trả kết quả về cho chúng ta thì chúng ta có thể gọi trực tiếp từ client site để giảm tải cho phía server.
++)dynamic file : khi nhận được yêu cầu từ người dùng chúng ta sẽ dựa trên yêu cầu đó mà truy vấn csdl hoặc web api.
