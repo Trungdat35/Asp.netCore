@@ -1,2 +1,8 @@
 +)Static file : ít khi thay đổi và được đặt tại wwwroot thay vì lúc nào cũng gửi yêu cầu đến server để trả kết quả về cho chúng ta thì chúng ta có thể gọi trực tiếp từ client site để giảm tải cho phía server.
 +)dynamic file : khi nhận được yêu cầu từ người dùng chúng ta sẽ dựa trên yêu cầu đó mà truy vấn csdl hoặc web api.
++)HomeController :
+  -ActionResult là những method để xử lý những cái action mà người dùng gọi đến rồi trả về kết quả cho chúng ta.Là thành phần đầu tiên nhận request từ người dùng.
+  -Có 3 nhiệm vụ :nhận request từ người dùng gọi đến tham chiếu(reference) lên server rồi trả về kết quả.Sau đó gọi đến actionresult tương ứng, thực thi làm việc logic với server tạo lên datamodel.Sau đó sẽ trả về kết quả và hiển thị lên.
+ -localhost:44030/News/stringOut(pattern:"{controller=Home}/{action=Index}/{id?}");)
++)format code : Ctrl + K + D
+  comment cod : Ctrl + K + C

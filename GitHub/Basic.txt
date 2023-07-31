@@ -4,7 +4,7 @@ và .Core : đa nền tảng
 +) Asp.net core mở rộng của .net
 +) Mã back-end
 +) Razor :Razor cho phép bạn kết hợp mã C# hoặc VB.NET và HTML trong cùng một tệp (file) để tạo các trang web một cách dễ đọc và dễ hiểu hơn (fileName.cshtml)
-+) SPA
++) SPA : single-page-application
 +)Mã nguồn mở
 ----------------------------------
 View chỉ chứa HTML,CSS
@@ -20,3 +20,13 @@ Mô hình hóa là trọng tâm, là nền tảng cho các thiết kế phức t
 Sự cộng tác đầy sáng tạo giữa nhóm developer và các domain expert (chuyên gia nghiệp vụ) tạo nên tiếng nói chung để xác định và giải quyết hiệu quả các vấn đề.
 +) Nguyên tắc và mẫu thiết kế để giải quyết vấn đề phức tạp. code thể hiện nghiệp vụ rõ ràng , có thể test được.
 +) Tập trung vào mô hình của từng sub domain(vùng nghiệp vụ con) :Khi xây dựng một ứng dụng hoặc hệ thống lớn, đôi khi miền dữ liệu chung có thể trở nên rất phức tạp và rộng lớn. Trong trường hợp này, việc chia nhỏ miền dữ liệu thành các subdomain nhỏ hơn có thể giúp tách rời các vấn đề phức tạp thành các bài toán nhỏ hơn, dễ quản lý và phát triển.
+------------------------------------------------------------------------
+http :
+(plain text : văn bản thô dễ bị nghe lén)
+httpsecure(đã được mã hóa) : thêm nữa là kiểm tra trang web có đúng k hay bị giả mạo
+------------------------------------------------------------------
+api là cách để phần mềm giao tiếp với phần mềm :
++)Đọc,ghi.định vị file
++)Trao đổi dữ liệu
++)Bảo mật , tái sử dụng
+SDK ?
