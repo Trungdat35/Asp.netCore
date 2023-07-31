@@ -3,7 +3,7 @@ và .Core : đa nền tảng
 +) Khái niệm  : là 1 khung mã nguồn mở, được tạo bởi microsoft để xây dựng các ứng dụng và dịch vụ web
 +) Asp.net core mở rộng của .net
 +) Mã back-end
-+) Razor
++) Razor :Razor cho phép bạn kết hợp mã C# hoặc VB.NET và HTML trong cùng một tệp (file) để tạo các trang web một cách dễ đọc và dễ hiểu hơn (fileName.cshtml)
 +) SPA
 +)Mã nguồn mở
 ----------------------------------
