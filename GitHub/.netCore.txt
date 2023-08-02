@@ -1,0 +1,20 @@
+connet service : kết nối với các service
+
+dependence : chứa tất cả các gói mà chúng ta cài đặt
+ từ 1 cái Nutget server hoặc cloud  chứa các gói(package)
+ và thư viện mà có thể hỗ trợ cho toàn bộ ứng dụng dot.net 
+thay vì mà download rồi add depence mà dùng cái này
+ có thể add online.
+
+properties (mặc định chỉ có file launch.json).
+Khi ta publish 1 iis folder thì sẽ có thư mục(publish profiles)
+
+wwwroot : folder xương sống của chúng ta tự động tạo khi 
+tạo mới project.Nó chứa các file static(boottrap, css).Nghĩa là phải để các
+file trong này thì mới truy cập được bằng  giao thức http/httpsvà
+scc sẽ k ăn.
+
+
+
+ https://support.microsoft.com/en-us/windows/use-voice-recognition-in-windows
+-83ff75bd-63eb-0b6c-18d4-6fae94050571
